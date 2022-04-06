@@ -4,8 +4,9 @@
 # YOLOv5 DeepSort Object Tracking PyTorch
  Implimentation of YOLOv5 and DeepSort in Pytorch for object tracking
  
- ![](img.gif)
  ![](img1.gif)
+ ![](img.gif)
+
  
 _link to video output, please refer to the [Youtube](https://youtu.be/B0EuijnaCqU)_
 
