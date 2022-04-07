@@ -8,7 +8,7 @@
  ![](img.gif)
 
  
-_link to video output, please refer to the [Youtube](https://youtu.be/B0EuijnaCqU)_
+_link to video output, please refer to the [Youtube](https://youtu.be/zuoxUaRC3l8)_
 
 [youtube-shield]: https://img.shields.io/badge/-youtube-black.svg?style=for-the-badge&logo=youtube&colorR=555
 [youtube-url]: https://www.youtube.com/watch?v=B0EuijnaCqU&ab_channel=RelaxingNature
